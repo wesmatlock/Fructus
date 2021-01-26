@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  Fructus
-//
-//  Created by Wesley Matlock on 1/25/21.
-//
-
 import SwiftUI
 
 struct ContentView: View {
